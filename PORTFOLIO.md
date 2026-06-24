@@ -1,0 +1,2 @@
+## Sobre Mí
+Soy Licenciada en Psicología y estudiante avanzada de Programación en la UTN. Me interesa integrar mis conocimientos en procesos humanos con el desarrollo de soluciones tecnológicas. Tengo experiencia en comunicación, liderazgo y análisis crítico, y actualmente estoy enfocada en proyectos de desarrollo web con Python, JavaScript y bases de datos. Mi objetivo es crecer en el área IT, aportando tanto habilidades técnicas como una mirada interdisciplinaria.
